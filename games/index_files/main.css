@@ -291,7 +291,7 @@ body {
   overflow: hidden;
 }
 .v1_2067 {
-  width: 550px;
+  width: 600px;
   height: 68px;
   background: url("../images/v1_2067.png");
   background-repeat: no-repeat;
@@ -323,7 +323,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 11px;
-  left: 148px;
+  left: 138px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: Medium;
   font-size: 20px;
@@ -336,7 +336,20 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 11px;
-  left: 316px;
+  left: 296px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: Medium;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v99_2070 {
+  text-decoration: none;
+  width: 86px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 11px;
+  left: 425px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: Medium;
   font-size: 20px;
@@ -352,7 +365,7 @@ body {
   opacity: 1;
   position: absolute;
   top: -10px;
-  left: 450px;
+  left: 505px;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   border-bottom-left-radius: 8px;
